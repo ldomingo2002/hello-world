@@ -13,6 +13,6 @@ function helloBrowser (){
 }
 
 function helloStranger (){
-prompt('Enter your name');
-console.log();
+var name = prompt('Enter your name');
+
 }
